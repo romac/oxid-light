@@ -6,10 +6,9 @@ Crafted for my *Refine your types!* [talk](https://github.com/romac/talks/tree/m
 
 ## Disclaimer
 
-This is just a prototype, and should not be taken as a proper basis for implementing a language with refinement types.
+This is just a prototype, and should not be taken as a proper basis for implementing a language with refinement types. Bug reports or pull requests are very welcome though!
 
 ## License
 
 Oxid is released under the [BSD3 license](/LICENSE).
 
- 
